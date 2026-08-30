@@ -25,6 +25,7 @@ import vtkShaderProgram from './ShaderProgram';
 import vtkSkybox from './Skybox';
 import vtkSphereMapper from './SphereMapper';
 import vtkStickMapper from './StickMapper';
+import './SurfaceLIC/SurfaceLICMapper';
 import vtkTexture from './Texture';
 import vtkTextureUnitManager from './TextureUnitManager';
 import vtkVertexArrayObject from './VertexArrayObject';

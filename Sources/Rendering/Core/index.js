@@ -40,6 +40,7 @@ import vtkScalarBarActor from './ScalarBarActor';
 import vtkSkybox from './Skybox';
 import vtkSphereMapper from './SphereMapper';
 import vtkStickMapper from './StickMapper';
+import vtkSurfaceLICMapper from './SurfaceLICMapper';
 import vtkTexture from './Texture';
 import vtkTextActor from './TextActor';
 import vtkTextProperty from './TextProperty';
@@ -88,6 +89,7 @@ export default {
   vtkSkybox,
   vtkSphereMapper,
   vtkStickMapper,
+  vtkSurfaceLICMapper,
   vtkTexture,
   vtkTextActor,
   vtkTextProperty,
